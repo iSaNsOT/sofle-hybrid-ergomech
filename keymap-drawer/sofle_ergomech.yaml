@@ -1,5 +1,5 @@
 layers:
-  Win-Def:
+  Base:
   - '&caps_word'
   - '1'
   - '2'
@@ -24,7 +24,7 @@ layers:
   - O
   - P
   - \
-  - ESC
+  - {t: ESC, h: LEFT CONTROL}
   - A
   - S
   - D
